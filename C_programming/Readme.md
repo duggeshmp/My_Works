@@ -52,4 +52,4 @@ To run these exercises on your system:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/duggeshmp/My_Works/main/C_programming.git
+   git clone https://github.com/duggeshmp/My_Works/tree/main/
